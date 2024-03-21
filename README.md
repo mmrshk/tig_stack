@@ -1,4 +1,4 @@
-<img width="1991" alt="Screenshot 2024-03-21 at 16 55 25" src="https://github.com/mmrshk/tig_stack/assets/31416671/37ca0b0d-1fcd-45d6-8e7c-65d62e2beea8"><img width="1998" alt="Screenshot 2024-03-21 at 16 55 05" src="https://github.com/mmrshk/tig_stack/assets/31416671/b83acff3-b5fb-4413-af54-df110f8568e5"># Example Docker Compose project for Telegraf, InfluxDB, Grafana, Nginx, Rails app with MongoDB and ElasticSearch 
+### Compose project for Telegraf, InfluxDB, Grafana, Nginx, Rails app with MongoDB and ElasticSearch 
 
 This an example project to show the TIG (Telegraf, InfluxDB and Grafana) stack and hot it monitors rails app.
 
