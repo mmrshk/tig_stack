@@ -8,7 +8,7 @@ class Post
   field :title, type: String
   field :body, type: String
 
-  # def as_indexed_json(options={})
-  #   as_json(except: [:id, :_id])
-  # end
+  def as_indexed_json(options={})
+    as_json(except: [:id, :_id])
+  end
 end

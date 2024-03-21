@@ -1,3 +1,1 @@
-# frozen_string_literal: true
-
-Elasticsearch::Model.client = Elasticsearch::Client.new(host: 'elasticsearch:9200')
+Elasticsearch::Model.client = Elasticsearch::Client.new(host: 'elasticsearch', port: 9200)
